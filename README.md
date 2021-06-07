@@ -1,6 +1,6 @@
 # Sudoku Game
 
-##Welcome! 
+## Welcome! 
 
 This is a sudoku game built with Java.
 
