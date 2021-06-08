@@ -32,5 +32,4 @@ public class SudokuTextField extends TextField {
             super.replaceSelection(s);
         }
     }
-
 }
