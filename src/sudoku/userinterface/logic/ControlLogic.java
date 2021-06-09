@@ -15,7 +15,7 @@ public class ControlLogic implements IUserInterfaceContract.EventListener {
 
     private IUserInterfaceContract.View view;
 
-    public ControlLogic(IStorage storage) {
+    public ControlLogic(IStorage storage, IUserInterfaceContract.View view) {
         this.storage = storage;
         this.view = view;
     }
