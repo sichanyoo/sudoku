@@ -5,6 +5,7 @@ import sudoku.problemdomain.SudokuGame;
 
 import java.io.*;
 
+//writing game data to local file system to store data
 public class LocalStorageImpl implements IStorage {
     private static File GAME_DATA = new File(
             System.getProperty("user.home"),
