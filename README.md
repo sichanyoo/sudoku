@@ -4,12 +4,6 @@
 
 This is a sudoku game built with Java.
 
-## Gameplay
-
-### What Randomized New Game Looks Like
-![newgame](images/newGame.PNG)
-
-### Game Win + New Game GIF
 ![gameplay](images/gamePlay.gif)
 
 ## How to Play
