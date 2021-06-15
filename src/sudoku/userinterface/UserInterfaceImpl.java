@@ -44,7 +44,7 @@ public class UserInterfaceImpl implements IUserInterfaceContract.View,
     private static final double BOARD_X_AND_Y = 576;
     //application window color and title constants
     private static final Color WINDOW_BACKGROUND_COLOR = Color.rgb(0, 0, 0);
-    private static final Color BOARD_BACKGROUND_COLOR = Color.rgb(224, 242, 241);
+    private static final Color BOARD_BACKGROUND_COLOR = Color.rgb(255, 255, 255);
     private static final String SUDOKU = "Sudoku";
 
     //constructor for view
