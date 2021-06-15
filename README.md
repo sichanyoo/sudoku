@@ -4,7 +4,7 @@
 
 This is a Sudoku game built with Java.
 
-![gameplay](images/gamePlay.gif)
+![gameplay](images/gameplay.gif)
 
 ## How to Play
 
